@@ -1,2 +1,2 @@
 # Prediction_AirlinesData
-Projeto de DataScience: Predição de atrasos em linhas aéreas.
+Mini projeto de Machine Learning para a redição de atrasos em linhas aéreas.
